@@ -218,3 +218,4 @@ func prosesPembayaran(keranjang KeranjangBelanja, jumlahItem int) {
 
 	fmt.Println("Terima kasih telah berbelanja!")
 }
+// Tugas WGTIK Git selesai
